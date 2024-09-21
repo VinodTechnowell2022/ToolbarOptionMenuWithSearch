@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OptionMenuWithSearch</string>
+    <string name="search">Search...</string>
+    <string name="logout_confirmation">Are you sure to logout fro the app?</string>
+    <string name="_ok">OK</string>
+    <string name="no_data">No Data available.</string>
+    <string name="_cancel">Cancel</string>
+</resources>
